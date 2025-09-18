@@ -19,6 +19,10 @@ The dashboard also includes a U.S. map showing traveler volume by state and a ca
 ## Screenshot of the Dashboard
 <img width="1202" height="750" alt="image" src="https://github.com/user-attachments/assets/685e2f4e-7a36-4a24-be75-c0f2df211ed0" />
 
+## 🎥 Demo Video  
+A short walkthrough of the dashboard is available here: **Demo.mov** (for reference).  
+
+---
 
 ## How to use this repository  
 - Download the `.pbix` file and open it in **Power BI Desktop (Windows)**.  
