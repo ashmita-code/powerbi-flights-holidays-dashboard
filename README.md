@@ -17,13 +17,6 @@ The dashboard also includes a U.S. map showing traveler volume by state and a ca
 
 ---
 
-## Tools I used  
-- **Power BI Desktop** to build the dashboard  
-- **Power BI Service** for sharing and interaction  
-- Dataset: [insert your dataset source here]  
-
----
-
 ## How to use this repository  
 - Download the `.pbix` file and open it in **Power BI Desktop (Windows)**.  
 - If you don’t have Power BI, check the screenshots in this repo for a preview of the dashboard.  
