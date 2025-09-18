@@ -1,6 +1,6 @@
 # Flights and Public Holidays Dashboard  
 
-This project explores how flight ticket prices and traveler volumes in the United States shift around major public holidays.  
+This project explores how flight ticket prices and traveler volumes in the United States shift around major public holidays before covid.  
 The goal was to see whether flights cost more during holidays and how demand changes before, during, and after those dates.  
 
 I built this dashboard in **Power BI** to make the analysis interactive.  
